@@ -4,6 +4,8 @@
 
 ## আর্টিকেলের _বিষয়_ সাব-টিম অনুযায়ীঃ 
 
-- [] Peer 1: [SWOT](https://en.wikipedia.org/wiki/SWOT_analysis)
-- [] Peer 2: [এসইও নিয়ে আমাদের কিছু কথা](https://en.wikipedia.org/wiki/Search_engine_optimization)
-- [] Peer 3: 
+- Peer 1: [SWOT](https://en.wikipedia.org/wiki/SWOT_analysis)
+- Peer 2: [এসইও নিয়ে আমাদের কিছু কথা](https://en.wikipedia.org/wiki/Search_engine_optimization)
+- Peer 3:  
+- Peer 4:
+- Peer 5:
