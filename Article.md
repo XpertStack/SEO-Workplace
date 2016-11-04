@@ -6,8 +6,8 @@
 
 - Peer 1: [SWOT](https://en.wikipedia.org/wiki/SWOT_analysis)
 - Peer 2: [এসইও নিয়ে আমাদের কিছু কথা](https://en.wikipedia.org/wiki/Search_engine_optimization)
-- Peer 3:  
-- Peer 4:
+- Peer 3:   
+- Peer 4: [ওয়েব যেভাবে কাজ করে](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 - Peer 5:
 
 
